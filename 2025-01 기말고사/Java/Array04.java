@@ -3,7 +3,6 @@
 // 2차원 배열: 행과 열로 이루어진 배열로, 표 형태의 데이터를 저장할 때 사용
 // 예시: int[][] arr = new int[행][열];
 
-// Array04.java
 public class Array04{
     public static void main(String[] args) {
         int rows = 2, columns = 3; // 행과 열의 개수 지정
